@@ -1,0 +1,9 @@
+<map id="GaussQuadParam.h" name="GaussQuadParam.h">
+<area shape="rect" id="node2" href="$df/d0a/main_8cpp_source.html" title="main.cpp" alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node3" href="$d9/d65/ArpackCshift_8cpp_source.html" title="ArpackCshift.cpp" alt="" coords="105,80,226,107"/>
+<area shape="rect" id="node4" href="$de/d94/P2__MeshTest_8cpp.html" title="Unit tests for the quadratic basis. " alt="" coords="251,80,381,107"/>
+<area shape="rect" id="node5" href="$d9/d7a/P3__MeshTest_8cpp.html" title="Unit tests for the cubic basis. " alt="" coords="405,80,536,107"/>
+<area shape="rect" id="node6" href="$d9/db7/QualityCheck_8cpp.html" title="Integrated test using Poisson equation on a square with polynomial solutions. " alt="" coords="561,80,687,107"/>
+<area shape="rect" id="node7" href="$d8/ddc/TransportCheck_8cpp.html" title="Integration test with an augmented Poisson equation. " alt="" coords="711,80,854,107"/>
+<area shape="rect" id="node8" href="$db/dbe/TrigQualityCheck_8cpp.html" title="Implementation of the Poisson equation test with trigonometric solutions. " alt="" coords="878,80,1029,107"/>
+</map>

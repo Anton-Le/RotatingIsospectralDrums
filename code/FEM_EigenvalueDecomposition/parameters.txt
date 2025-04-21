@@ -1,0 +1,9 @@
+N=0
+CF=Coord_refRect.dat
+EF=Elements_refRect.dat
+BFD=Boundary_refRect.dat
+n=1.0
+omega=1
+recomp=1
+Neig=3
+tol=1e-12

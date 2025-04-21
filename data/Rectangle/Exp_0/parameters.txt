@@ -1,0 +1,8 @@
+CF=Coord_refRect.dat
+EF=Elements_refRect.dat
+BFD=Boundary_refRect.dat
+n=1.000000
+omega=AngularFrequencies.dat
+tol=1e-11
+FP=Rectangle
+Neig=10

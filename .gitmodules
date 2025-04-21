@@ -1,3 +1,6 @@
 [submodule "lib/eigen"]
 	path = lib/eigen
 	url = https://gitlab.com/libeigen/eigen.git
+[submodule "lib/arpackpp"]
+	path = lib/arpackpp
+	url = https://github.com/m-reuter/arpackpp.git
